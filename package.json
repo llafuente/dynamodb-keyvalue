@@ -1,0 +1,25 @@
+{
+  "name": "dynamodb-keyvalue",
+  "version": "1.0.0",
+  "description": "Use AWS dynamodb as a key/value storage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llafuente/dynamodb-keyvalue.git"
+  },
+  "keywords": [
+    "dynamodb"
+  ],
+  "author": "llafuente",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/llafuente/dynamodb-keyvalue/issues"
+  },
+  "homepage": "https://github.com/llafuente/dynamodb-keyvalue#readme",
+  "peerDependencies": {
+    "aws-sdk": "2.*"
+  }
+}
